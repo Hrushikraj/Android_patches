@@ -7,7 +7,9 @@ Reverse engineering Android applications can be a complex task, requiring a deep
 In this repository, you will find a wide range of patches covering various aspects of Android app reverse engineering. From bypassing license checks and removing advertisements to disabling anti-tampering mechanisms and exposing hidden functionality, these patches are intended to empower researchers and developers to dig deeper into Android apps and gain valuable insights.
 
 We encourage you to explore the different categories and patches available in this repository. Each patch comes with detailed documentation and instructions on how to apply it to an Android app effectively. Additionally, you'll find helpful resources, such as tutorials and guides, to assist you in your reverse engineering journey.
-## Patches Info:-
+## Patches Info:
+
+
 
 ### Contributing
 
