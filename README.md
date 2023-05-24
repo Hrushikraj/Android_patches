@@ -20,7 +20,7 @@ It contains 3 patches to remove ads and 1 patch to disable internet:
 4. DisableInternet patch will make your application into offline mode
 
 
-### Contributing
+## Contributing
 
 Contributions to this repository are highly welcome! If you have created or discovered useful patches that could benefit the reverse engineering community, we invite you to contribute them here. To contribute:
 
