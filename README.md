@@ -14,7 +14,7 @@ We encourage you to explore the different categories and patches available in th
 * GooglePlayServices by Edik1d.zip - This patch is used to remove googleplay services from the APK.
 * patch_RemoveAds+Offline.zip - This patches for removing ads from apps created by TheDarkOnion.
 It contains 3 patches to remove ads and 1 patch to disable internet:
-1. First try RemoveAds-R1
+** 1. First try RemoveAds-R1
 2. If you face any problem of crash or server error with RemoveAds-R1 then try RemoveAds-R2
 3. RemoveAds-R3 is enough for disabling ads and safe from errors
 4. DisableInternet patch will make your application into offline mode
