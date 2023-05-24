@@ -1,4 +1,4 @@
-# Android_patches
+# Android Reverse Engineering Patches
 
 Welcome to the Android Reverse Engineering Patches repository! This collection of patches is designed to assist and streamline the process of reverse engineering Android applications. Whether you're a security researcher, an Android enthusiast, or simply curious about the inner workings of Android apps, this repository aims to provide you with valuable resources and tools.
 
