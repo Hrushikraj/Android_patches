@@ -8,6 +8,17 @@ In this repository, you will find a wide range of patches covering various aspec
 
 We encourage you to explore the different categories and patches available in this repository. Each patch comes with detailed documentation and instructions on how to apply it to an Android app effectively. Additionally, you'll find helpful resources, such as tutorials and guides, to assist you in your reverse engineering journey.
 
-Contributions to this repository are highly welcome! If you have created or discovered useful patches that could benefit the reverse engineering community, we invite you to contribute them here. By sharing our knowledge and collaborating, we can collectively advance the field of Android reverse engineering and make it more accessible to all.
+## Contributing
+
+Contributions to this repository are highly welcome! If you have created or discovered useful patches that could benefit the reverse engineering community, we invite you to contribute them here. To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your contribution.
+3. Make your changes and test them thoroughly.
+4. Submit a pull request detailing your changes.
+
 
 Please note that the patches provided in this repository are intended for educational and research purposes only. It's crucial to respect the intellectual property rights of the original app developers and to abide by any applicable laws and regulations in your jurisdiction.
+
+#Patches Info:-
+
