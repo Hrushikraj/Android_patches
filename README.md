@@ -8,8 +8,8 @@ In this repository, you will find a wide range of patches covering various aspec
 
 We encourage you to explore the different categories and patches available in this repository. Each patch comes with detailed documentation and instructions on how to apply it to an Android app effectively. Additionally, you'll find helpful resources, such as tutorials and guides, to assist you in your reverse engineering journey.
 ## Patches Info:
-
-
+* AntiAds-v2.2.zip - Magisk Module to Block Ads, Porn, Trackers and Phishing Sites on your Android Device. (Author=Kero309x)
+* 
 
 ### Contributing
 
