@@ -19,9 +19,12 @@ It contains 3 patches to remove ads and 1 patch to disable internet:
 3. RemoveAds-R3 is enough for disabling ads and safe from errors
 4. DisableInternet patch will make your application into offline mode
 * Fake_device_information.zip - Patch to apply fake random information to apps
+* 
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 An example of the changes that this patch applies
+
 ••••••••••••••••••••••••••••••••••••••••••••••
+
 build.model: Nexus 5
 build.hardware: hammerhead
 build.product: hammerhead
