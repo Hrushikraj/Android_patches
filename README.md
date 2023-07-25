@@ -12,7 +12,7 @@ We encourage you to explore the different categories and patches available in th
 2. Fake Android ID.zip -The Android Id is faked or replaced so that the application cannot obtain the device's original data.
 3. Cnfix - Cnfix patch can kill signatures of android applications with pv hook (Same as of Cnfix App)
 4. GooglePlayServices by Edik1d.zip - This patch is used to remove googleplay services from the APK.
-5. patch_RemoveAds+Offline.zip - This patches for removing ads from apps created by TheDarkOnion.
+5. Patch_RemoveAds+Offline.zip - This patches for removing ads from apps created by TheDarkOnion.
 It contains 3 patches to remove ads and 1 patch to disable internet:
 * First try RemoveAds-R1
 * If you face any problem of crash or server error with RemoveAds-R1 then try RemoveAds-R2
