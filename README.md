@@ -23,7 +23,7 @@ It contains 3 patches to remove ads and 1 patch to disable internet:
 An example of the changes that this patch applies <br>
 •••••••••••••••••••••••••••••••••••••••••••••• <br>
 
-build.model: Nexus 5 <br>
+[build.model: Nexus 5 <br>
 build.hardware: hammerhead <br>
 build.product: hammerhead <br>
 version.codename: REL <br>
@@ -43,13 +43,11 @@ build.device: hammerhead <br>
 build.board: hammerhead <br>
 build.brand: google <br>
 build.fingerprint: google/hammerhead/hammerhead:6.0.1/M4B30Z/3437181:user/release-keys <br>
-build.manufacturer: LGE <br>
-━━━━━━━━━━━━━━━━━━━━━━
-Using this patch, you can provide random fake information.
-I have updated a small part of this regex [ ]
-Good luck.
-━━━━━━━━━━━━━━━━━━━━━━
-Created by Reza
+build.manufacturer: LGE ] <br>
+━━━━━━━━━━━━━━━━━━━━━━ <br>
+Using this patch, you can provide random fake information. <br>
+I have updated a small part of this regex [ ] <br>
+Created by Reza <br>
 
 
 ## Contributing
