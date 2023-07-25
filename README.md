@@ -18,32 +18,32 @@ It contains 3 patches to remove ads and 1 patch to disable internet:
 2. If you face any problem of crash or server error with RemoveAds-R1 then try RemoveAds-R2
 3. RemoveAds-R3 is enough for disabling ads and safe from errors
 4. DisableInternet patch will make your application into offline mode
-* Fake_device_information.zip - Patch to apply fake random information to apps
-  (≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡)
-An example of the changes that this patch applies
-(••••••••••••••••••••••••••••••••••••••••••••••)
+* Fake_device_information.zip - Patch to apply fake random information to apps <br>
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ <br>
+An example of the changes that this patch applies <br>
+••••••••••••••••••••••••••••••••••••••••••••••
 
-build.model: Nexus 5
-build.hardware: hammerhead
-build.product: hammerhead
-version.codename: REL
-build.cpu_abi: armeabi-v7a
-build.cpu_abi2: armeabi
-version.incremental: eng.nickv.20170513.192248
-build.display: N2G47O
-build.user: nickv
-build.host: virtualpenguin
-build.type: user
-build.tags: test-keys
-build.serial: 065dc5710aca8f51
-version.release: 7.1.2
-build.id: N2G47O
-build.bootloader: HHZ20f
-build.device: hammerhead
-build.board: hammerhead
-build.brand: google
-build.fingerprint: google/hammerhead/hammerhead:6.0.1/M4B30Z/3437181:user/release-keys
-build.manufacturer: LGE
+build.model: Nexus 5 <br>
+build.hardware: hammerhead <br>
+build.product: hammerhead <br>
+version.codename: REL <br>
+build.cpu_abi: armeabi-v7a <br>
+build.cpu_abi2: armeabi <br>
+version.incremental: eng.nickv.20170513.192248 <br>
+build.display: N2G47O <br>
+build.user: nickv <br>
+build.host: virtualpenguin <br>
+build.type: user <br>
+build.tags: test-keys <br>
+build.serial: 065dc5710aca8f51 <br>
+version.release: 7.1.2 <br>
+build.id: N2G47O <br>
+build.bootloader: HHZ20f <br>
+build.device: hammerhead <br>
+build.board: hammerhead <br>
+build.brand: google <br>
+build.fingerprint: google/hammerhead/hammerhead:6.0.1/M4B30Z/3437181:user/release-keys <br>
+build.manufacturer: LGE <br>
 ━━━━━━━━━━━━━━━━━━━━━━
 Using this patch, you can provide random fake information.
 I have updated a small part of this regex [ ]
