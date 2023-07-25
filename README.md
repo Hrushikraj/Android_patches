@@ -21,7 +21,7 @@ It contains 3 patches to remove ads and 1 patch to disable internet:
 * Fake_device_information.zip - Patch to apply fake random information to apps <br>
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ <br>
 An example of the changes that this patch applies <br>
-••••••••••••••••••••••••••••••••••••••••••••••
+•••••••••••••••••••••••••••••••••••••••••••••• <br>
 
 build.model: Nexus 5 <br>
 build.hardware: hammerhead <br>
