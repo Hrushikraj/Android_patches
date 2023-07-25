@@ -8,17 +8,17 @@ In this repository, you will find a wide range of patches covering various aspec
 
 We encourage you to explore the different categories and patches available in this repository. Each patch comes with detailed documentation and instructions on how to apply it to an Android app effectively. Additionally, you'll find helpful resources, such as tutorials and guides, to assist you in your reverse engineering journey.
 ## Patches Info:
-1. AntiAds-v2.2.zip - Magisk Module to Block Ads, Porn, Trackers and Phishing Sites on your Android Device. (Author=Kero309x)
-2. Fake Android ID.zip -The Android Id is faked or replaced so that the application cannot obtain the device's original data.
-3. Cnfix - Cnfix patch can kill signatures of android applications with pv hook (Same as of Cnfix App)
-4. GooglePlayServices by Edik1d.zip - This patch is used to remove googleplay services from the APK.
-5. Patch_RemoveAds+Offline.zip - This patches for removing ads from apps created by TheDarkOnion.
+1. **AntiAds-v2.2** - Magisk Module to Block Ads, Porn, Trackers and Phishing Sites on your Android Device. (Author=Kero309x)
+2. **Fake Android ID** -The Android Id is faked or replaced so that the application cannot obtain the device's original data.
+3. **Cnfix** - Cnfix patch can kill signatures of android applications with pv hook (Same as of Cnfix App)
+4. **GooglePlayServices by Edik1d** - This patch is used to remove googleplay services from the APK.
+5. **Patch_RemoveAds+Offline** - This patches for removing ads from apps created by TheDarkOnion.
 It contains 3 patches to remove ads and 1 patch to disable internet:
 * First try RemoveAds-R1
 * If you face any problem of crash or server error with RemoveAds-R1 then try RemoveAds-R2
 * RemoveAds-R3 is enough for disabling ads and safe from errors
 * DisableInternet patch will make your application into offline mode
-6. Fake_device_information.zip - Patch to apply fake random information to apps <br>
+6. **Fake_device_information.zip** - Patch to apply fake random information to apps <br>
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ <br>
 An example of the changes that this patch applies <br>
 •••••••••••••••••••••••••••••••••••••••••••••• <br>
@@ -47,7 +47,7 @@ build.manufacturer: LGE ] <br>
 ━━━━━━━━━━━━━━━━━━━━━━ <br>
 Using this patch, you can provide random fake information. <br>
 I have updated a small part of this regex [ ] <br>
-Created by Reza <br>
+**Created by Reza** <br>
 
 
 ## Contributing
