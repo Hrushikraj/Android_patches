@@ -54,7 +54,7 @@ I have updated a small part of this regex [ ] <br>
      2) Change Adrian_package.name.txt
      {package.name} to your target app app package  name
      3) And open this patch with lucky patcher
-     4) And patch your Target app
+     4) And patch your Target app<br>
 
 
 ## Contributing
