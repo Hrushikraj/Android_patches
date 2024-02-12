@@ -14,10 +14,10 @@ We encourage you to explore the different categories and patches available in th
 4. **GooglePlayServices by Edik1d** - This patch is used to remove googleplay services from the APK.
 5. **Patch_RemoveAds+Offline** - This patches for removing ads from apps created by TheDarkOnion.
 It contains 3 patches to remove ads and 1 patch to disable internet:
-  * First try RemoveAds-R1
-  * If you face any problem of crash or server error with RemoveAds-R1 then try RemoveAds-R2
-  * RemoveAds-R3 is enough for disabling ads and safe from errors
-  * DisableInternet patch will make your application into offline mode <br>
+   * First try RemoveAds-R1
+   * If you face any problem of crash or server error with RemoveAds-R1 then try RemoveAds-R2
+   * RemoveAds-R3 is enough for disabling ads and safe from errors
+   * DisableInternet patch will make your application into offline mode <br>
 6. **Fake_device_information.zip** - Patch to apply fake random information to apps<br>
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ <br>
 An example of the changes that this patch applies <br>
@@ -47,14 +47,14 @@ An example of the changes that this patch applies <br>
 ━━━━━━━━━━━━━━━━━━━━━━ <br>
 Using this patch, you can provide random fake information. <br>
 I have updated a small part of this regex [ ] <br>
-**Created by Reza** <br>
-7. **Google Pairip bypass.lpzip** -  This Patch can bypass Google pairip..
+***Created by Reza*** <br>
+7.**Google Pairip bypass.lpzip** -  This Patch can bypass Google pairip..
   How to use: <br>
-      1) Open it with zip viewer<br>
-      2) Change Adrian_package.name.txt <br>
-      {package.name} to your target app app package  name <br>
-      3) And open this patch with lucky patcher <br>
-      4) And patch your Target app <br>
+       I.Open it with zip viewer <br>
+       II.Change Adrian_package.name.txt  <br>
+       {package.name} to your target app app package  name  <br>
+       III. And open this patch with lucky patcher <br>
+       IV. And patch your Target app <br>
 
 
 ## Contributing
