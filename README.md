@@ -18,7 +18,14 @@ It contains 3 patches to remove ads and 1 patch to disable internet:
 * If you face any problem of crash or server error with RemoveAds-R1 then try RemoveAds-R2
 * RemoveAds-R3 is enough for disabling ads and safe from errors
 * DisableInternet patch will make your application into offline mode
-6. **Fake_device_information.zip** - Patch to apply fake random information to apps <br>
+6. **Fake_device_information.zip** - Patch to apply fake random information to apps
+7. **Google Pairip bypass.lpzip** -  This Patch can bypass Google pairip..
+  How to use 
+1) Open it with zip viewer
+2) Change Adrian_package.name.txt
+{package.name} to your target app app package  name
+3) And open this patch with lucky patcher
+4) And patch your Target app<br>
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ <br>
 An example of the changes that this patch applies <br>
 •••••••••••••••••••••••••••••••••••••••••••••• <br>
