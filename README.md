@@ -13,7 +13,7 @@ We encourage you to explore the different categories and patches available in th
 3. **Cnfix** - Cnfix patch can kill signatures of android applications with pv hook (Same as of Cnfix App)
 4. **GooglePlayServices by Edik1d** - This patch is used to remove googleplay services from the APK.
 5. **Patch_RemoveAds+Offline** - This patches for removing ads from apps created by TheDarkOnion.
-It contains 3 patches to remove ads and 1 patch to disable internet:
+It contains 3 patches to remove ads and I. patch to disable internet:
    * First try RemoveAds-R1
    * If you face any problem of crash or server error with RemoveAds-R1 then try RemoveAds-R2
    * RemoveAds-R3 is enough for disabling ads and safe from errors
@@ -48,14 +48,17 @@ An example of the changes that this patch applies <br>
 Using this patch, you can provide random fake information. <br>
 I have updated a small part of this regex [ ] <br>
 ***Created by Reza*** <br>
-7.**Google Pairip bypass.lpzip** -  This Patch can bypass Google pairip..
-  How to use: <br>
-       I.Open it with zip viewer <br>
-       II.Change Adrian_package.name.txt  <br>
-       {package.name} to your target app app package  name  <br>
-       III. And open this patch with lucky patcher <br>
-       IV. And patch your Target app <br>
+**Google Pairip bypass.lpzip** - This Patch can bypass Google pairip..
 
+How to use: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;I. Open it with zip viewer <br>
+&nbsp;&nbsp;&nbsp;&nbsp;II. Change Adrian_package.name.txt <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{package.name} to your target app package name <br>
+&nbsp;&nbsp;&nbsp;&nbsp;III. And open this patch with lucky patcher <br>
+&nbsp;&nbsp;&nbsp;&nbsp;IV. And patch your Target app. <br>
+
+
+<p>&nbsp;</p> <!-- This will create a paragraph with non-breaking space for spacing -->
 
 ## Contributing
 
