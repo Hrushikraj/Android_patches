@@ -49,12 +49,12 @@ Using this patch, you can provide random fake information. <br>
 I have updated a small part of this regex [ ] <br>
 **Created by Reza** <br>
 7. **Google Pairip bypass.lpzip** -  This Patch can bypass Google pairip..
-  How to use: 
+  How to use: <br>
      1) Open it with zip viewer
      2) Change Adrian_package.name.txt
      {package.name} to your target app app package  name
      3) And open this patch with lucky patcher
-     4) And patch your Target app<br>
+     4) And patch your Target app <br>
 
 
 ## Contributing
