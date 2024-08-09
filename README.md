@@ -12,7 +12,7 @@ We encourage you to explore the different categories and patches available in th
 | S.no. | Patch name | Short Description | Recommended Tool to use | 
 | ------------- | ------------- | ------------- | ------------- |
 | 01  | AntiAds-v2.2 | Magisk Module to Block Ads, Porn, Trackers and Phishing Sites on your Android Device. (Author=Kero309x)  | (Author=Kero309x)  |
-| 02  | Heap41A.exe  | 4F30003916CC70FCA3CE6EC3F0FF1429  | 746153871F816ECE357589B2351818E449B1BEECFB21EB75A3305899CE9AE37C  |
+| 02  | Fake Android ID | The Android Id is faked or replaced so that the application cannot obtain the device's original data. | 746153871F816ECEB2351818E449B1BEECFB21EB75A3305899CE9AE37C  |
 1. **AntiAds-v2.2** - Magisk Module to Block Ads, Porn, Trackers and Phishing Sites on your Android Device. (Author=Kero309x)
 2. **Fake Android ID** -The Android Id is faked or replaced so that the application cannot obtain the device's original data.
 3. **Cnfix** - Cnfix patch can kill signatures of android applications with pv hook (Same as of Cnfix App)
