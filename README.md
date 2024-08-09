@@ -17,6 +17,9 @@ We encourage you to explore the different categories and patches available in th
 | 04  | GooglePlayServices | This patch is used to remove googleplay services from the APK | Apk Editor |
 | 05  | Patch_RemoveAds+Offline | It contains 3 patches to remove ads and to disable internet | MT Manager, Apk Editor|
 | 06  | Fake_device_information | Patch to fake the device info | MT Manager, Apk Editor|
+
+To download the tools mentioned visit: [Click Here](https://github.com/Hrushikraj/reverse_engineeringtools)
+
 1. **AntiAds-v2.2** - Magisk Module to Block Ads, Porn, Trackers and Phishing Sites on your Android Device. (Author=Kero309x)
 2. **Fake Android ID** -The Android Id is faked or replaced so that the application cannot obtain the device's original data.
 3. **Cnfix** - Cnfix patch can kill signatures of android applications with pv hook (Same as of Cnfix App)
