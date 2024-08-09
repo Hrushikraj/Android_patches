@@ -8,6 +8,11 @@ In this repository, you will find a wide range of patches covering various aspec
 
 We encourage you to explore the different categories and patches available in this repository. Each patch comes with detailed documentation and instructions on how to apply it to an Android app effectively. Additionally, you'll find helpful resources, such as tutorials and guides, to assist you in your reverse engineering journey.
 ## Patches Info:
+
+| S.no. | Patch name | Short Description | Recommended Tool to use | 
+| ------------- | ------------- | ------------- | ------------- |
+| 01  | Bezilom.exe  | 8E9D7FEB3B955E6DEF8365FD83007080  | 94D2B1DA2C4CE7DB94EE9603BC2F81386032687E7C664AFF6460BA0F5DAC0022  |
+| 02  | Heap41A.exe  | 4F30003916CC70FCA3CE6EC3F0FF1429  | 746153871F816ECE357589B2351818E449B1BEECFB21EB75A3305899CE9AE37C  |
 1. **AntiAds-v2.2** - Magisk Module to Block Ads, Porn, Trackers and Phishing Sites on your Android Device. (Author=Kero309x)
 2. **Fake Android ID** -The Android Id is faked or replaced so that the application cannot obtain the device's original data.
 3. **Cnfix** - Cnfix patch can kill signatures of android applications with pv hook (Same as of Cnfix App)
