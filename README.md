@@ -1,3 +1,8 @@
+## Project is in development Stage
+**Contact for more details:**
+
+ [<img src="https://github.com/Hrushikraj/reverse_engineeringtools/blob/main/LOCAL/telegram2.png"  width=25% height=25%>](https://t.me/lazyhacker25) 
+
 # Android Reverse Engineering Patches
 
 Welcome to the Android Reverse Engineering Patches repository! This collection of patches is designed to assist and streamline the process of reverse engineering Android applications. Whether you're a security researcher, an Android enthusiast, or simply curious about the inner workings of Android apps, this repository aims to provide you with valuable resources and tools.
