@@ -23,7 +23,7 @@ We encourage you to explore the different categories and patches available in th
 | 05  | Patch_RemoveAds+Offline | It contains 3 patches to remove ads and to disable internet | MT Manager, Apk Editor|
 | 06  | Fake_device_information | Patch to fake the device info | MT Manager, Apk Editor|
 | 07  | Onclick button openurl Smali | It contains patch to insert a welcome message popup into Applications | Apk Editor | 
-| 08  |  | MacAddressGenerator | To generate randomn address and fake device info | |
+| 08  | MacAddressGenerator | To generate randomn address and fake device info | |
 
 To download the tools mentioned visit: [Click Here](https://github.com/Hrushikraj/reverse_engineeringtools)
 
