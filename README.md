@@ -24,6 +24,7 @@ We encourage you to explore the different categories and patches available in th
 | 06  | Fake_device_information | Patch to fake the device info | MT Manager, Apk Editor|
 | 07  | Onclick button openurl Smali | It contains patch to insert a welcome message popup into Applications | Apk Editor | 
 | 08  | MacAddressGenerator | To generate randomn address and fake device info | |
+| 09  | bypass root | It removes/bypasses the root restrictions from the applications, so that users with root device can use it without crashes or any warnings | Mt Manager, Apk Editor |
 
 To download the tools mentioned visit: [Click Here](https://github.com/Hrushikraj/reverse_engineeringtools)
 
